@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-  <src="https://github-readme-stats.vercel.app/api?username=wal-jc&show_icons=true&theme=tokyonight&include_all_commits=true"Add commentMore actions
+src="https://github-readme-stats.vercel.app/api?username=wal-jc&show_icons=true&theme=tokyonight&include_all_commits=true"Add commentMore actions
   />
 <p>
   <img 
